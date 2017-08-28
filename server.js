@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const request = require('request');
 const app = express()
 
-const apiKey = '0cabdb7b6bed479814389ff95cf8acc5';
+const apiKey = '<app-key>';
 
 var path = require('path');
 // app.use(express.static(__dirname + 'public/css'));
